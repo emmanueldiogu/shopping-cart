@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+}
+.section{
+    width: 70%;
+    background-color: antiquewhite;
+    margin: auto;
+    line-height: 20px;
+}
+.empty{
+    height: 20px;
+    background-color: blue;
+}
+.cart{
+    padding: 10px;
+}
+.item{
+    padding: 10px 20px;
+}
+input{
+    width: 20px;
+}
+.quantity{
+    float: right;
+    margin-right: 20px;
+}
+button{
+    float: right;
+    margin-right: 10px;
+}
